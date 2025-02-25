@@ -3,3 +3,8 @@
 "Pilea"
 "Golden Pothos"
 "Peace Lily"
+.box{
+    width:300px;
+    height: 200px;
+    margin:150px
+}
